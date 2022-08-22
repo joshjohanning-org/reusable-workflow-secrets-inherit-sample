@@ -1,0 +1,1 @@
+# reusable-workflow-secrets-inherit-sample
